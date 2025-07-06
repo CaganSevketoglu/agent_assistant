@@ -1,0 +1,15 @@
+# Sanal Ortam Klasörü
+venv/
+
+# API Anahtarları ve Sır Dosyaları
+.env
+.streamlit/
+secrets.toml
+
+# Python'un Otomatik Oluşturduğu Önbellek Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Vektör Veritabanı Klasörü
+chroma_db/
